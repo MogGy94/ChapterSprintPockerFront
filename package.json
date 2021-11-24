@@ -2,7 +2,7 @@
   "name": "chapter-sprint-poker-front",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
